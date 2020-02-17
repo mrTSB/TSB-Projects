@@ -6,17 +6,17 @@ Each folder has a file named 'folder-info', which covers what is inside of the f
 
 ___Programming FAQ___
 
-What ide do you use?          
-VsCode, Atom, Pycharm, and Jupyter
+>What ide do you use?          
+>VsCode, Atom, Pycharm, and Jupyter
 
-What is your favorite Language?        
-Js and Python
+>What is your favorite Language?        
+>Js and Python
 
-Do you use d.js or d.py for discord bots?      
-D.js
+>Do you use d.js or d.py for discord bots?      
+>D.js
 
-What is the coolest thing you have made?         
-A machine learning project with python using data sets from kraggle.
+>What is the coolest thing you have made?         
+>A machine learning project with python using data sets from kraggle.
 
 *⚠Disclaimer⚠*         
 *I was not able to upload my C# projects here because they are stuck on a school desktop.*
