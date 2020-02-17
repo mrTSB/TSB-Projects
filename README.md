@@ -1,4 +1,4 @@
-# Internship-Projects
+# TSB-Projects
 In this github repository, I, Tanvir Bhathal, have uploaded some of my complete projects.
 
 I have split up this repository based on the laguage that the project was written in.
