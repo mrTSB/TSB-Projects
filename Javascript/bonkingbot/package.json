@@ -1,0 +1,16 @@
+{
+  "name": "tanvir",
+  "version": "1.0.0",
+  "description": "Moderation and System Bot",
+  "main": "systembonk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bonking",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
