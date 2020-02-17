@@ -3,3 +3,5 @@ In this github repository, I, Tanvir Bhathal, have uploaded some of my complete 
 
 I have split up this repository based on the laguage that the project was written in.
 Each folder has a file named 'folder-info', which covers what is inside of the folder.
+
+No C# projects are stored here because they are stuck on a school desktop.
