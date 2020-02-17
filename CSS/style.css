@@ -1,0 +1,96 @@
+﻿p {
+	color: red;
+	text-align: center;
+}
+
+p.intro {
+	color: red;
+	text-align:center;
+	title="Intro";
+}
+
+a:link {
+	color: blue;
+	background-color: transparent;
+	text-decoration: none;
+	text-align: center;
+} 
+
+a:visited {
+	color: purple;
+	background-color: transparent;
+	text-decoration: none;
+	text-align: center;
+}
+
+a:hover {
+	color: blue
+	background-color: transparent;
+	text-decoration: underline;
+	text-align: center;
+}
+
+a:active {
+	color: green;
+	background-color: transparent;
+	text-decoration: underline;
+	text-align: center;
+}
+
+p:hover {
+	color:red;
+	background-color: transparent;
+	text-decoration: none;
+	text-align: center;
+	font-size: 16px;
+}
+
+body {
+	background-color: powderblue;
+}
+
+h1 {
+	color: blue;
+	font-size: 55px;
+	text-align: center;
+	background-color: Orange;
+}
+
+h2 {
+	color: purple;
+	text-align: center;
+	background-color: lightseagreen;
+	font-size: 45px;
+}
+
+h3 {
+	text-align: center;
+	font-size: 35px;
+	color: green;
+}
+
+h4 {
+	text-align: center;
+	color: green;
+	font-size: 25px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+table{
+	table-align: center;
+	color: yellow;
+}
+thead{
+	font-size:23px;
+}
+tr{
+	height: 10px;
+	text-align: center;
+}
+td{
+	width: 20px;
+}
