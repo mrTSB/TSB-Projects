@@ -18,5 +18,5 @@ D.js
 What is the coolest thing you have made?         
 A machine learning project with python using data sets from kraggle.
 
-*Disclaimer*
+*⚠Disclaimer⚠*         
 *I was not able to upload my C# projects here because they are stuck on a school desktop.*
