@@ -13,7 +13,7 @@ ___Programming FAQ___
 >Js and Python
 
 >Do you use d.js or d.py for discord bots?      
->Depends, usually I prefer d.py
+>Depends, usually I prefer d.js
 
 >What is the coolest thing you have made?         
 >A machine learning project with python using data sets from kraggle.
