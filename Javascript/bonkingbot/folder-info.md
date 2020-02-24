@@ -5,4 +5,4 @@ This bot is fully functional and has fun miscellaneous commands, and helpful mod
 This bot has a working help command which is not hard programmed and can be used by anybody.
 I have removed the bot's token in config.json for security purposes, even though it was old and useless.
 
-I have made another bot like this, but in python so I will not bother uploading that in the python folder.
+I am capeable of making another bot like this, but in python.
