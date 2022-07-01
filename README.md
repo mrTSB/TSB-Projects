@@ -16,4 +16,4 @@ ___Programming FAQ___
 >Depends, usually I prefer discord.js
 
 >What is the coolest thing you have made?         
->Remaking the game Clash Royale with Java
+>Making the game Royal Battle from scratch
