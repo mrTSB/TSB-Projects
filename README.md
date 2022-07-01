@@ -7,13 +7,13 @@ Each folder has a file named 'folder-info.md', which covers what is inside of th
 ___Programming FAQ___
 
 >What ide do you use?          
->VsCode, Atom, Pycharm, and Jupyter
+>VsCode, Atom, Pycharm, Replit, and Jupyter
 
 >What is your favorite Language?        
->Js and Python
+>Java
 
->Do you use d.js or d.py for discord bots?      
->Depends, usually I prefer d.js
+>Do you use discord.js or discord.py for discord bots?      
+>Depends, usually I prefer discord.js
 
 >What is the coolest thing you have made?         
->A machine learning project with python using data sets from kraggle.
+>Remaking the game Clash Royale with Java
