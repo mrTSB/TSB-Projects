@@ -7,7 +7,7 @@ Each folder has a file named 'folder-info.md', which covers what is inside of th
 ___Programming FAQ___
 
 >What ide do you use?          
->VsCode, Atom, Pycharm, Replit, and Jupyter
+>VsCode, Atom, Pycharm, Replit, and Jupyter Notebook
 
 >What is your favorite Language?        
 >Java
